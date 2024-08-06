@@ -1,0 +1,3 @@
+name=jenkins
+baseurl=https://pkg.jenkins.io/redhat/updates/stable/gpgcheck=1
+gpgkey=https://pkg.jenkins.io/redhat/jenkins.io.key 
